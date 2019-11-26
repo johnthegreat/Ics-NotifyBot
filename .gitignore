@@ -1,0 +1,7 @@
+.idea/
+bin/
+lib/
+NotifyBot.iml
+.classpath
+.project
+target/
